@@ -14,6 +14,6 @@ public class MenghitungTotalBayar10 {
         jmlBayar = harga - potongan;
 
         System.out.println("Diskon : " + potongan);
-        System.out.println("Jumlah bayar : " + jmlBayar);
+        System.out.println("Jumlah yang harus anda bayar adalah : " + jmlBayar);
     }
 }
